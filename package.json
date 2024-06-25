@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "protobufjs": "^7.3.2"
+  },
+  "devDependencies": {
+    "protobufjs-cli": "^1.1.2"
+  }
+}
